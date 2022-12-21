@@ -8,10 +8,15 @@ The goal of the decision tree is help identify whether a student purchases a com
 In your python script you will do the following.
 
 Require a set of 4 inputs from the user
+
   a. Income
+  
   b. Age
+  
   c. Credit Rating
+  
   d. Student or not
+  
   
 Based on the set of inputs build a decision tree (if-elif-else) that identifies whether the individual is likely to purchase a computer or not.
 
